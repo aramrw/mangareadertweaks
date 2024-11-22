@@ -4,7 +4,7 @@
 // @version      2024-11-22
 // @description  Hide bottom navigation and restore if reset
 // @author       You
-// @match        https://mangareader.to/*
+// @match        https://mangareader.to/reader/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mangareader.to
 // @grant        none
 // @run-at       document-idle
