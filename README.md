@@ -5,5 +5,7 @@
     - https://github.com/aramrw/mangareadertweaks/blob/main/script.js
 5. paste into a new tampermonkey script 👇
  <img src="https://github.com/user-attachments/assets/cdf8a86c-34af-4c8b-ab9f-948854cd947d" width="400" />
-### Features
-- manga panels take up full screen
+
+### Changes
+- makes manga panels take up full screen when reading 👇
+<img src="https://github.com/user-attachments/assets/dca99b1e-a36c-41eb-8037-7e735d40b401" width="400" />
